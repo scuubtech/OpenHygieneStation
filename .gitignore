@@ -1,0 +1,17 @@
+# OpenSCAD / general
+*.scad~
+*.tmp
+*.bak
+*.log
+*.png
+*.stl
+*.dxf
+*.svg
+*.step
+*.iges
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
